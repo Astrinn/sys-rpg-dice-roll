@@ -1,0 +1,15 @@
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\bin\Debug\net6.0\sys-dice-roll.exe
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\bin\Debug\net6.0\sys-dice-roll.deps.json
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\bin\Debug\net6.0\sys-dice-roll.runtimeconfig.json
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\bin\Debug\net6.0\sys-dice-roll.dll
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\bin\Debug\net6.0\sys-dice-roll.pdb
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\obj\Debug\net6.0\sys-dice-roll.csproj.AssemblyReference.cache
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\obj\Debug\net6.0\sys-dice-roll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\obj\Debug\net6.0\sys-dice-roll.AssemblyInfoInputs.cache
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\obj\Debug\net6.0\sys-dice-roll.AssemblyInfo.cs
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\obj\Debug\net6.0\sys-dice-roll.csproj.CoreCompileInputs.cache
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\obj\Debug\net6.0\sys-dice-roll.dll
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\obj\Debug\net6.0\refint\sys-dice-roll.dll
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\obj\Debug\net6.0\sys-dice-roll.pdb
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\obj\Debug\net6.0\sys-dice-roll.genruntimeconfig.cache
+D:\Users\Astrinn\Documents\host\repository\system-dice-roll\sys-dice-roll\obj\Debug\net6.0\ref\sys-dice-roll.dll
